@@ -1,0 +1,88 @@
+{
+  "hello": "你好世界(繁體)",
+  "menu": {
+    "product": "作品",
+    "intro": "介紹"
+  },
+  "intro": {
+    "hello": "哈囉～大家好！這裡是帶來未來之聲的──愛崎未來喔～",
+    "text1": "我最喜歡 ASMR 和雙耳錄音，從在耳邊輕聲呢喃的甜言蜜語、像戀人般的私密傾訴，到耳搔情境劇這樣的療癒場景，我都會全力呈現給你♪",
+    "text2": "至今曾在音羽之夢、艶電之夢、甘音庵、導之音等社團的作品中擔任配音。",
+    "text3": "雖然還在成長中，但我會努力成為能夠打動大家心弦的「心動系聲音」，把情感傳遞到每位聽眾的心中！",
+    "text4": "今後也會努力在更多作品中與大家相見，請多多支持我喔♡",
+    "seemore": "更多作品"
+  },
+  "sort": {
+    "newest": "最新上架",
+    "price": "價格",
+    "popular": "熱門點擊",
+    "asc": "由低到高",
+    "desc": "由高到低"
+  },
+  "login": {
+    "title": "後台登入",
+    "passwordLabel": "管理員密碼",
+    "passwordPlaceholder": "請輸入密碼",
+    "submit": "登入",
+    "piniaStatus": "Pinia 狀態：",
+    "loggedIn": "已登入",
+    "notLoggedIn": "未登入"
+  },
+  "adminProduct": {
+    "add": "新增",
+    "edit": "編輯",
+    "create": "新增商品",
+    "title": "標題",
+    "titlePlaceholder": "請輸入標題",
+    "image": "圖片",
+    "selectImage": "選擇圖片",
+    "price": "價格",
+    "pricePlaceholder": "請輸入價格",
+    "urlPlaceholder": "請輸入商品連結",
+    "cancel": "取消",
+    "confirm": "確定",
+    "uploadFail": "圖片上傳失敗",
+    "uploadOnlyImage": "只允許上傳圖片檔案",
+    "fillAll": "請完整填寫所有欄位",
+    "addSuccess": "新增成功",
+    "addFail": "新增失敗",
+    "searchPlaceholder": "搜尋標題",
+    "search": "搜尋",
+    "total": "共 {count} 筆",
+    "imageLoadError": "圖片載入失敗",
+    "views": "點擊數",
+    "status": "狀態",
+    "published": "上架",
+    "unpublished": "下架",
+    "createdTime": "建立時間",
+    "updatedTime": "最後刷新",
+    "actions": "操作",
+    "deleteTitle": "刪除",
+    "delete": "確定要刪除？",
+    "editTitle": "編輯商品",
+    "loadFail": "載入失敗",
+    "unpublishedSuccess": "已下架",
+    "publishedSuccess": "已上架",
+    "toggleFail": "切換狀態失敗",
+    "deletedSuccess": "已刪除",
+    "deleteFail": "刪除失敗",
+    "releaseDate": "上架日期",
+    "tag": "標籤",
+    "editSuccess": "編輯成功"
+  },
+  "age": {
+    "title": "年齡確認",
+    "text1": "本網站部分內容僅適合 18 歲以上的使用者瀏覽。",
+    "text2": "請確認您的年齡以繼續。",
+    "under18": "我未滿 18 歲",
+    "over18": "我已滿 18 歲",
+    "textRefuse": "本網站僅供 18 歲以上的使用者瀏覽。",
+    "refuse": "訪問受限"
+  },
+  "adminTag": {
+    "edit": "管理標籤",
+    "add": "新增標籤",
+    "name": "標籤名",
+    "input": "輸入標籤名稱"
+  }
+}

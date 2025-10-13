@@ -1,0 +1,88 @@
+{
+  "hello": "こんにちは世界",
+  "menu": {
+    "product": "作品",
+    "intro": "紹介"
+  },
+  "intro": {
+    "hello": "はろ～みら！未来の声を届ける──愛崎未来だよ～",
+    "text1": "ASMRとバイノーラル録音が大好きで、耳元でささやく甘い言葉や、恋人みたいな秘密のお話、そして耳かきのような癒しシチュエーションまで、ぜ～んぶ全力でお届けします♪",
+    "text2": "これまでに、音羽ノ夢さん・艶電ノ夢さん・甘音庵さん・導ノ音さんなどの作品で声を担当させてもらってるよ。",
+    "text3": "まだまだ成長中だけど、聴いてくれるみんなの心に届くような“ときめきボイス”を目指してがんばります！",
+    "text4": "これからもたくさんの作品でお会いできるようにがんばるから、応援よろしくね♡",
+    "seemore": "その他の作品"
+  },
+  "sort": {
+    "newest": "新着順",
+    "price": "価格",
+    "popular": "人気順",
+    "asc": "昇順",
+    "desc": "降順"
+  },
+  "login": {
+    "title": "管理画面ログイン",
+    "passwordLabel": "管理者パスワード",
+    "passwordPlaceholder": "パスワードを入力してください",
+    "submit": "ログイン",
+    "piniaStatus": "Pinia 状態：",
+    "loggedIn": "ログイン済み",
+    "notLoggedIn": "未ログイン"
+  },
+  "adminProduct": {
+    "add": "新規追加",
+    "edit": "編集",
+    "create": "商品を追加",
+    "title": "タイトル",
+    "titlePlaceholder": "タイトルを入力してください",
+    "image": "画像",
+    "selectImage": "画像を選択",
+    "price": "価格",
+    "pricePlaceholder": "価格を入力してください",
+    "urlPlaceholder": "商品リンクを入力してください",
+    "cancel": "キャンセル",
+    "confirm": "確定",
+    "uploadFail": "画像のアップロードに失敗しました",
+    "uploadOnlyImage": "画像ファイルのみアップロード可能です",
+    "fillAll": "すべての項目を入力してください",
+    "addSuccess": "追加に成功しました",
+    "addFail": "追加に失敗しました",
+    "searchPlaceholder": "タイトルを検索",
+    "search": "検索",
+    "total": "全{count}件",
+    "imageLoadError": "画像読み込み失敗",
+    "views": "閲覧数",
+    "status": "ステータス",
+    "published": "公開中",
+    "unpublished": "非公開",
+    "createdTime": "作成日時",
+    "updatedTime": "最終更新",
+    "actions": "操作",
+    "deleteTitle": "刪除",
+    "delete": "削除してもよろしいですか？",
+    "editTitle": "商品を編集",
+    "loadFail": "読み込みに失敗しました",
+    "unpublishedSuccess": "非公開にしました",
+    "publishedSuccess": "公開にしました",
+    "toggleFail": "ステータスの切り替えに失敗しました",
+    "deletedSuccess": "削除しました",
+    "deleteFail": "削除に失敗しました",
+    "releaseDate": "発売日",
+    "editSuccess": "編集成功",
+    "tag": "タグ"
+  },
+  "age": {
+    "title": "年齢確認",
+    "text1": "本サイトの一部のコンテンツは、18歳以上の方のみを対象としています。",
+    "text2": "続行するには年齢を確認してください。",
+    "over18": "18歳以上です",
+    "under18": "18歳未満です",
+    "refuse": "アクセス制限",
+    "textRefuse": "本サイトは18歳以上の方のみご利用いただけます。"
+  },
+  "adminTag": {
+    "add": "タグを追加",
+    "edit": "タグを管理",
+    "name": "タグ名",
+    "input": "タグ名を入力"
+  }
+}

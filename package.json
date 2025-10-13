@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port 3333",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare && prisma generate",
+    "start": "node .output/server/index.mjs",
+    "migrate:deploy": "prisma migrate deploy"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": ">=0.2.6",
+    "@element-plus/nuxt": "1.1.4",
+    "@nuxtjs/i18n": "10.0.3",
+    "@pinia/nuxt": "0.11.2",
+    "@prisma/client": "^6.13.0",
+    "@types/better-sqlite3": "^7.6.13",
+    "better-sqlite3": "^12.2.0",
+    "busboy": "^1.6.0",
+    "element-plus": ">=2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "nuxt": "^4.0.1",
+    "pinia": "^3.0.3",
+    "prisma": "^6.13.0",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  },
+  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10"
+  }
+}

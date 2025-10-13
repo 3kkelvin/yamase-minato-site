@@ -1,0 +1,40 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:../.data/app.db"
+}
+
+model User {
+  id   Int    @id @default(autoincrement())
+  name String
+}
+
+model Product {
+  id           Int      @id @default(autoincrement())
+  releaseDate  DateTime @default(now())
+  createTime   DateTime @default(now())
+  refreshTime  DateTime @default(now())
+  title        String
+  imageUrl     String
+  price        Float
+  url          String
+  views        Int      @default(0)
+  isDelete     Boolean  @default(false)
+  tags         Tag[]    @relation("ProductToTag")
+}
+
+model Tag {
+  id           Int      @id @default(autoincrement())
+  createTime   DateTime @default(now())
+  refreshTime  DateTime @default(now())
+  name         String   @unique
+  isDelete     Boolean  @default(false)
+  products     Product[] @relation("ProductToTag")
+}

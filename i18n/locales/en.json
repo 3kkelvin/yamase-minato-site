@@ -1,0 +1,88 @@
+{
+  "hello": "Hello World",
+  "menu": {
+    "product": "Work",
+    "intro": "Intro"
+  },
+  "intro": {
+    "hello": "Hello!Bringing you the voice of the future—Aizaki Mirai~",
+    "text1": "I absolutely love ASMR and binaural recording — from sweet whispers right by your ear, to intimate words like a lover, and even relaxing ear-cleaning scenarios, I pour my heart into every performance♪",
+    "text2": "So far, I’ve had the honor of voicing for works by 音羽ノ夢さん,艶電ノ夢さん,甘音庵さん, and 導ノ音.",
+    "text3": "I’m still growing, but I’m working hard to become a “heart-throbbing voice” that can touch each listener’s heart!",
+    "text4": "I’ll keep giving my best so we can meet in many more works in the future, so please keep supporting me♡",
+    "seemore": "More works"
+  },
+  "sort": {
+    "newest": "Newest",
+    "price": "Price",
+    "popular": "Popular",
+    "asc": "Low to High",
+    "desc": "High to Low"
+  },
+  "login": {
+    "title": "Admin Login",
+    "passwordLabel": "Administrator Password",
+    "passwordPlaceholder": "Please enter password",
+    "submit": "Login",
+    "piniaStatus": "Pinia Status:",
+    "loggedIn": "Logged In",
+    "notLoggedIn": "Not Logged In"
+  },
+  "adminProduct": {
+    "add": "Add",
+    "edit": "Edit",
+    "create": "Add Product",
+    "title": "Title",
+    "titlePlaceholder": "Please enter title",
+    "image": "Image",
+    "selectImage": "Select Image",
+    "price": "Price",
+    "pricePlaceholder": "Please enter price",
+    "urlPlaceholder": "Please enter product link",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "uploadFail": "Image upload failed",
+    "uploadOnlyImage": "Only image files are allowed",
+    "fillAll": "Please complete all fields",
+    "addSuccess": "Added successfully",
+    "addFail": "Failed to add",
+    "searchPlaceholder": "Search title",
+    "search": "Search",
+    "total": "{count} items",
+    "imageLoadError": "Failed to load image",
+    "views": "Views",
+    "status": "Status",
+    "published": "Published",
+    "unpublished": "Unlisted",
+    "createdTime": "Created At",
+    "updatedTime": "Last Refresh",
+    "deleteTitle": "delete",
+    "delete": "Are you sure to delete?",
+    "editTitle": "Edit Product",
+    "actions": "Action",
+    "loadFail": "Load failed",
+    "unpublishedSuccess": "Unpublished successfully",
+    "publishedSuccess": "Published successfully",
+    "toggleFail": "Failed to toggle status",
+    "deletedSuccess": "Deleted successfully",
+    "deleteFail": "Failed to delete",
+    "releaseDate": "Release date",
+    "editSuccess": "Edit Successful ",
+    "tag": "Tag"
+  },
+  "age": {
+    "title": "Age Verification",
+    "text1": "Some content on this website is intended for users aged 18 and over.",
+    "text2": "Please verify your age to continue.",
+    "over18": "I am 18 or older",
+    "under18": "I am under 18",
+    "refuse": "Access Restricted",
+    "textRefuse": "This website is intended for users aged 18 and over only."
+  },
+  "adminTag": {
+    "add": "Add Tag",
+    "edit": "Manage Tags",
+    "name": "Tag Name",
+    "input": "Enter Tag Name"
+  }
+}
