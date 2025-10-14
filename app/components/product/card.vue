@@ -89,7 +89,7 @@ const handleTag = async (tag:string) => {
   font-size: 1.05rem;
   font-weight: 600;
   margin-bottom: 6px;
-  color: #d1468e;
+  color: #467bd1;
   word-break: break-word;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -116,7 +116,7 @@ const handleTag = async (tag:string) => {
 }
 
 .price {
-  color: #e567ab;
+  color: #467bd1;
   font-size: 1.1rem;
   font-weight: bold;
   letter-spacing: 0.5px;
@@ -125,7 +125,7 @@ const handleTag = async (tag:string) => {
 .views {
   margin-left: 4px;
   background: #fff0f8;
-  color: #d1468e;
+  color: #467bd1;
   border-radius: 10px;
 }
 </style>

@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/i18n', '@pinia/nuxt', '@element-plus/nuxt'],
   app: {
     head: {
-      title: '愛崎未来',
+      title: '山瀬湊',
       link: [
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
       ]

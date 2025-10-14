@@ -9,8 +9,8 @@
       <div class="right_box">
         <div class="intro">
           <h1>
-            愛崎未来
-            <span>Aisaki Mirai</span>
+            山瀬湊
+            <span>Yamase Minato</span>
           </h1>
           <p class="catch">「{{ $t('intro.hello') }}」</p>
           <p class="txt">
@@ -20,14 +20,14 @@
             {{ $t('intro.text4') }}<br>
           </p>
           <div>
-            <GeneralSound src="https://chobit.cc/embed/cvzyw/4j3sg0jq" />
+            <GeneralSound src="https://chobit.cc/embed/4hhfx/9kgirwpp" />
           </div>
           <div>
             <el-row :gutter="16" class="link-grid">
               <el-col :xs="24" :sm="12">
                 <el-card class="link-card" body-style="padding:0" shadow="never">
-                  <a href="https://x.com/Mirai_Aisaki_" class="link-card__inner">
-                    <span>愛崎未来 - X</span>
+                  <a href="https://x.com/Minato_Yamase" class="link-card__inner">
+                    <span>山瀬湊 - X</span>
                     <span class="arrow">›</span>
                   </a>
                 </el-card>
@@ -179,7 +179,7 @@ const localePath = useLocalePath()
 }
 
 .link-card {
-  border: 1.5px solid var(--el-color-danger-light-3);
+  border: 1.5px solid #467bd1;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -192,7 +192,7 @@ const localePath = useLocalePath()
   padding: 6px 18px;
   text-decoration: none;
   font-weight: 600;
-  color: var(--el-color-danger-light-3);
+  color: #467bd1;
 }
 
 .link-card:hover {

@@ -50,7 +50,7 @@
 
 .footer {
   height: 60px;
-  background: #ffd2d2;
+  background: #ACD6FF;
   padding: 1rem;
   text-align: center;
   font-size: 0.875rem;
@@ -70,7 +70,7 @@
 }
 
 .link-card {
-  border: 1.5px solid var(--el-color-danger-light-3);
+  border: 1.5px solid #467bd1;
   border-radius: 10px;
   overflow: hidden;
   width: 110px;
@@ -81,6 +81,6 @@
   padding: 6px 20px;
   text-decoration: none;
   font-weight: 600;
-  color: var(--el-color-danger-light-3);
+  color: #467bd1;
 }
 </style>

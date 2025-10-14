@@ -1,6 +1,6 @@
 <template>
-  <el-menu mode="horizontal" :default-active="$route.path" :ellipsis="false" background-color="#ffA5A5"
-    text-color="#333" style="border-bottom-width: 0px" active-text-color="#FF5CB3" class="el-menu-demo"
+  <el-menu mode="horizontal" :default-active="$route.path" :ellipsis="false" background-color="#97CBFF"
+    text-color="#333" style="border-bottom-width: 0px" active-text-color="#4676ce" class="el-menu-demo"
     @select="onSelect">
     <!-- 1) Logo：用 margin-right:auto 撐開左右 -->
     <el-menu-item :index="localePath('/')">
