@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="footer-icons">
-      <a href="https://x.com/Mirai_Aisaki_" target="_blank" rel="noopener noreferrer">
+      <a href="https://x.com/Minato_Yamase" target="_blank" rel="noopener noreferrer">
         <img src="/twitter.png" alt="Twitter" />
       </a>
       <el-popover placement="top" :width="100" trigger="click">
